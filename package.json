@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha main.js"
   },
-  "author": "",
+  "author": "panhao wu",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",

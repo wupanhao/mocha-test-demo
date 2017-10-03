@@ -1,0 +1,21 @@
+{
+  "name": "web_test",
+  "version": "1.0.0",
+  "description": "a simple test framework for restful api by comparing with query from mysql",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "expect": "^21.2.1",
+    "mocha": "^3.5.3",
+    "mysql": "^2.14.1",
+    "node-xlsx": "^0.11.0",
+    "mochawesome": "^2.3.1"
+  },
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,10 @@
+var config ={
+mysql:{
+  host     : 'xx.xx.xx.xx',
+  user     : 'username',
+  password : 'password',
+  database : 'db'
+}
+}
+
+module.exports = config
